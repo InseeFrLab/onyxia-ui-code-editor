@@ -1,6 +1,6 @@
 {
     "name": "@onyxia-ui/code-editor",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Wrapper around codemirror onyxia themed",
     "repository": {
         "type": "git",
