@@ -1,4 +1,4 @@
-import { yaml } from "./vendor/yaml";
+import { yaml } from "./vendor/codemirror";
 import { GenericCodeEditor } from "./GenericCodeEditor";
 
 export type Props = Omit<GenericCodeEditor.Props, "extensions">;
